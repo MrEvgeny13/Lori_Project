@@ -8,7 +8,7 @@
 
 3) Fill "db.properties" using a template:
 
-## jdbc
+\#jdbc
 jdbc.driverClassName=org.postgresql.Driver 
 
 jdbc.url=jdbc:postgresql://localhost:5432/*name of your database* 
@@ -18,7 +18,7 @@ jdbc.user=*user name*
 jdbc.pass=*user's password* 
 
 
-## hibernate
+\#hibernate
 hibernate.dialect=org.hibernate.dialect.PostgreSQL9Dialect 
 
 hibernate.show_sql=true 

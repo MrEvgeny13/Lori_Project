@@ -27,4 +27,4 @@ hibernate.show_sql=true
 
 hibernate.hbm2ddl.auto=create 
 
-hibernate.temp.use_jdbc_metadata_defaults = false 
+hibernate.temp.use_jdbc_metadata_defaults=false 

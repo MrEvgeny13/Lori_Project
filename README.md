@@ -1,4 +1,3 @@
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/fb6af5698584420dbd0fcd071d7dc5a3)](https://www.codacy.com/gh/MrEvgeny13/Lori_Project/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=MrEvgeny13/Lori_Project&amp;utm_campaign=Badge_Grade)
 [![Build Status](https://travis-ci.com/MrEvgeny13/Lori_Project.svg?branch=master)](https://travis-ci.com/MrEvgeny13/Lori_Project)
 
 # Lori_Project

@@ -1,6 +1,7 @@
 package com.javastart.hibernatetest.dao;
 
 import com.javastart.hibernatetest.entity.Account;
+
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.springframework.beans.factory.annotation.Autowired;
